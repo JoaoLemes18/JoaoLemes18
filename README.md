@@ -4,7 +4,7 @@ Eu sou o **João Lemes**,
 
 📱 Desenvolvedor Mobile
 
-👨‍💻 Formando em Análise e Desenvolvimento de Sistemas
+👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
 
 <div>
@@ -26,5 +26,11 @@ Eu sou o **João Lemes**,
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center"r height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
+
+### 📚 Tecnoologias que estou estudando:
+<div>
+<img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
+<img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </div>
