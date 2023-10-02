@@ -18,7 +18,7 @@ Eu sou o **João Lemes**,
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolemes18/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lemesjoaoo/)
 
-### 🛠️ Tecnoologias e ferramentas utilizadas:
+### 🛠️ Tecnoologias utilizadas:
 
 <div>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
