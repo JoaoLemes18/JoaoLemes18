@@ -21,7 +21,7 @@ Eu sou o **João Lemes**,
 ### 🛠️ Tecnoologias utilizadas:
 
 <div>
-<img align="center"  height="30" width="40" title= "React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="center"  height="30" width="40" title= "React Js/React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="center"  height="30" width="40" title= "Typescript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="center"  height="30" width="40" title= "Javascript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img  align="center"  height="60" width="50" title= "PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
