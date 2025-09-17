@@ -4,7 +4,7 @@ Eu sou o **João Lemes**,
 
 👩‍💻 Desenvolvedor de Software
 
-👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
+👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
 
 <div>
